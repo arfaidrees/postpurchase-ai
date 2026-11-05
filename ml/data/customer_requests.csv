@@ -1,0 +1,42 @@
+
+message,category
+Where is my package,tracking
+Can you track my shipment,tracking
+My parcel has not arrived,tracking
+When will my order be delivered,tracking
+I need a delivery update,tracking
+What is the shipping status,tracking
+Where is the courier,tracking
+Please check my tracking number,tracking
+My delivery is delayed,tracking
+Has my package been dispatched,tracking
+I want to return these shoes,return
+The shirt does not fit and I want to send it back,return
+How can I return my purchase,return
+I received the wrong size and need a return,return
+Please arrange a return pickup,return
+I need a return label,return
+Can I send this product back,return
+The item arrived damaged and I want to return it,return
+What is the return procedure,return
+Please start a product return,return
+I need my money back,refund
+Please issue a refund,refund
+My payment was charged twice,refund
+I want reimbursement for this purchase,refund
+When will my refund arrive,refund
+Please reverse the payment,refund
+I was overcharged for my order,refund
+The refund has not reached my account,refund
+I want the amount credited back,refund
+Please refund my purchase,refund
+Cancel my order immediately,cancellation
+I no longer want this purchase,cancellation
+Please stop processing my order,cancellation
+Can you cancel my booking,cancellation
+I placed the order by mistake and want to cancel,cancellation
+Please cancel the shipment,cancellation
+I want to withdraw my purchase,cancellation
+Stop my order before it ships,cancellation
+I changed my mind and need cancellation,cancellation
+Cancel this purchase before dispatch,cancellation
