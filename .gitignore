@@ -7,3 +7,18 @@ __pycache__/
 *.pyc
 *.joblib
 .DS_Store
+# Local secrets and configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and caches
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Local ML artifacts
+*.joblib
+*.pt
+*.pth
+ml/vector_db/
